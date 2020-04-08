@@ -1364,8 +1364,8 @@ p {
   padding: 4px 8px;
   display: inline-block;
   text-align: left;
-  color: #c9c9e3;
-  background-color: rgba(90, 92, 170, 0.8);
+  color: #fff;
+  background-color: #6d02e5;
 }
 
 @media (min-width: 640px) {
