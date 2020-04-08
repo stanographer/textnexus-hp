@@ -96,6 +96,7 @@ a:hover {
 }
 
 p {
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -227,6 +228,10 @@ p {
 
 .btn .icon--dots, input.btn .icon--dots {
   margin-left: 16px;
+}
+
+.uk-text-left {
+  font-size: 1rem;
 }
 
 .uk-input, .uk-select, .uk-textarea {
@@ -1532,6 +1537,8 @@ p {
 
 .team__name, .team__vocation {
   display: block;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 .team__name {
